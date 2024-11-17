@@ -1,4 +1,4 @@
-# SEMANTIC-HTML
+# SEMANTIC-HTML AYU PURWIASRI(2205101012) 5B TIF
 Latihan Praktikum Semantic HTML
 
 ## Latihan 1: Semantic HTML
